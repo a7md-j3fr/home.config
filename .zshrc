@@ -15,3 +15,4 @@ colorscript -r
 ###########################
 eval "$(starship init zsh)"
 ###########################
+alacritty-color-export.sh &> /dev/null 
